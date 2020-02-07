@@ -1,0 +1,12 @@
+﻿V3.0.0.7
+1. Modify the macro definition in PicoZense_decmtype.h according to the module
+2. The "FrameViewer.exe" in Tools is for DCAM800,
+   if use DCAM710,please recompile "FrameViewer" in "Samples"
+
+V3.0.0.3
+1. Optimize SDK code
+2. Optimize	SDK demo
+3. Fix some bug
+
+V3.0.0.0
+1.Refactoring version 
