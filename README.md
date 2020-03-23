@@ -2,6 +2,11 @@
 
 ## PicoZense TOF camera software develop kit for windows system
 
+### Supported Devices
+
+- DCAM710
+- DCAM800
+
 ### Resources
 
 - Homepage: [https://www.picozense.com/en/] , [https://www.picozense.com]
