@@ -5,7 +5,7 @@
 ### Supported Devices
 
 - DCAM710
-- DCAM800
+- DCAM800/DCAM800 Lite
 
 ### Resources
 
